@@ -339,46 +339,37 @@
   </i>
 </p>
 
-<table border="0" align="center">
-  <tr>
 
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://github.com/Prithvikalyan" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github"
-        width="60" height="60" alt="GitHub" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/GitHub-Follow-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"
-        alt="GitHub" />
-      </a>
-      <br />
-      <sub><b>Developer Profile</b></sub>
-    </td>
-
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://www.linkedin.com/in/prithvikalyan/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin"
-        width="60" height="60" alt="LinkedIn" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&labelColor=0a0a0a"
-        alt="LinkedIn" />
-      </a>
-      <br />
-      <sub><b>Professional Network</b></sub>
-    </td>
-
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="mailto:prithvikalyan2002@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail"
-        width="60" height="60" alt="Gmail" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"
-        alt="Email" />
-      </a>
-      <br />
-      <sub><b>Direct Contact</b></sub>
-    </td>
-
-  </tr>
+<table border="0" align="center" cellpadding="12">
+<tr>
+<td align="center" width="220">
+<a href="https://github.com/Prithvikalyan">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+<br /><br />
+<img src="https://img.shields.io/badge/GitHub-Follow-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
+</a>
+<br />
+<sub><b>Developer Profile</b></sub>
+</td>
+<td align="center" width="220">
+<a href="https://www.linkedin.com/in/prithvikalyan/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+<br /><br />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn" />
+</a>
+<br />
+<sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220">
+<a href="mailto:prithvikalyan2002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email" />
+<br /><br />
+<img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+</a>
+<br />
+<sub><b>Direct Contact</b></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
