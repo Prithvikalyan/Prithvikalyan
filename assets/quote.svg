@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 110" width="720" height="110" role="img" aria-label="Building. Learning. Improving.">
+  <defs>
+    <linearGradient id="qBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08080A" />
+      <stop offset="100%" stop-color="#111114" />
+    </linearGradient>
+    <radialGradient id="qRedGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#0A0A0A" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="qRedVert" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#EF4444" />
+      <stop offset="100%" stop-color="#991B1B" />
+    </linearGradient>
+    <linearGradient id="qRedLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0" />
+      <stop offset="50%" stop-color="#EF4444" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#DC2626" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="718" height="108" rx="12" fill="url(#qBgGrad)" stroke="#1F1F23" stroke-width="1.5" />
+  <rect x="2" y="2" width="716" height="106" rx="11" fill="url(#qRedGlow)" />
+
+  <!-- Left Red Accent Bar -->
+  <rect x="22" y="24" width="3.5" height="62" rx="1.75" fill="url(#qRedVert)" />
+
+  <!-- Subtle Right Corner Accent -->
+  <path d="M 684 18 L 700 18 L 700 34" fill="none" stroke="#DC2626" stroke-width="1.75" stroke-linecap="round" opacity="0.65" />
+  <path d="M 684 92 L 700 92 L 700 76" fill="none" stroke="#DC2626" stroke-width="1.75" stroke-linecap="round" opacity="0.65" />
+
+  <!-- Quote Text -->
+  <text x="366" y="57" text-anchor="middle" fill="#F3F4F6"
+        font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
+        font-size="22" font-weight="600" letter-spacing="0.8">
+    &#8220;Building. Learning. Improving.&#8221;
+  </text>
+
+  <!-- Subtle Horizontal Red Accent Line -->
+  <rect x="230" y="74" width="260" height="1.5" rx="0.75" fill="url(#qRedLine)" />
+</svg>

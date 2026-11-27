@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Prithvi Kalyan - Python Backend &amp; Generative AI Developer">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070709" />
+      <stop offset="50%" stop-color="#0C0C0F" />
+      <stop offset="100%" stop-color="#111114" />
+    </linearGradient>
+    <radialGradient id="redGlow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#EF4444" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#0A0A0A" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="redLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0" />
+      <stop offset="25%" stop-color="#DC2626" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#EF4444" stop-opacity="1" />
+      <stop offset="75%" stop-color="#DC2626" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#DC2626" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="subtleGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Base Dark Card -->
+  <rect x="1" y="1" width="1198" height="238" rx="14" fill="url(#bgGrad)" stroke="#1F1F23" stroke-width="1.5" />
+  <rect x="2" y="2" width="1196" height="236" rx="13" fill="url(#subtleGrid)" />
+  <rect x="2" y="2" width="1196" height="236" rx="13" fill="url(#redGlow)" />
+
+  <!-- Top & Bottom Subtle Red Accent Lines -->
+  <rect x="180" y="1" width="840" height="2.5" fill="url(#redLine)" />
+  <rect x="300" y="236.5" width="600" height="1.5" fill="url(#redLine)" opacity="0.6" />
+
+  <!-- Subtle Corner Decorative Brackets -->
+  <path d="M 24 44 L 24 24 L 44 24" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" opacity="0.75" />
+  <path d="M 1156 24 L 1176 24 L 1176 44" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" opacity="0.75" />
+  <path d="M 24 196 L 24 216 L 44 216" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" opacity="0.75" />
+  <path d="M 1156 216 L 1176 216 L 1176 196" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" opacity="0.75" />
+
+  <!-- Minimal Side Accent Dots -->
+  <circle cx="52" cy="120" r="2.5" fill="#EF4444" opacity="0.6" />
+  <circle cx="68" cy="120" r="1.5" fill="#DC2626" opacity="0.35" />
+  <circle cx="1148" cy="120" r="2.5" fill="#EF4444" opacity="0.6" />
+  <circle cx="1132" cy="120" r="1.5" fill="#DC2626" opacity="0.35" />
+
+  <!-- Main Heading -->
+  <text x="600" y="106" text-anchor="middle" fill="#F9FAFB"
+        font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"
+        font-size="44" font-weight="700" letter-spacing="6">
+    PRITHVI KALYAN
+  </text>
+
+  <!-- Divider -->
+  <rect x="440" y="126" width="320" height="2" rx="1" fill="url(#redLine)" />
+
+  <!-- Subtitle -->
+  <text x="600" y="164" text-anchor="middle" fill="#D1D5DB"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace"
+        font-size="18" font-weight="500" letter-spacing="1.2">
+    Python Backend &amp; Generative AI Developer
+  </text>
+</svg>
