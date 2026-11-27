@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="16" viewBox="0 0 720 16" role="img" aria-label="Crimson section divider">
+  <defs>
+    <linearGradient id="crimson-divider" x1="0" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0.08" />
+      <stop offset="22%" stop-color="#DC2626" stop-opacity="0.75" />
+      <stop offset="50%" stop-color="#FF4545" stop-opacity="1" />
+      <stop offset="78%" stop-color="#DC2626" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#DC2626" stop-opacity="0.08" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="4" width="720" height="8" rx="4" fill="url(#crimson-divider)" />
+</svg>

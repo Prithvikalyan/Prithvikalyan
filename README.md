@@ -30,6 +30,10 @@
 <h2 align="center">1. About Me</h2>
 
 <p align="center">
+  <img src="assets/section-divider.svg" width="220" height="16" alt="" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&lines=Building+for+impact.+Coding+the+future."
   width="600" alt="Typing Quote" />
 </p>
@@ -112,64 +116,61 @@
 
 <h2 align="center">2. Featured Projects</h2>
 
-<table width="100%" border="0" align="center" cellpadding="16">
+<p align="center">
+  <img src="assets/section-divider.svg" width="220" height="16" alt="" />
+</p>
+
+<table width="92%" border="0" align="center" cellpadding="24">
   <tr>
-    <td align="center">
-      <h3>1. TenderWise – Advanced RAG Document Intelligence</h3>
-      <p>
-        An AI-powered government tender intelligence and
-        bid-readiness platform designed to help teams analyze
-        tender documents, understand bidder requirements,
-        organize company evidence, and prepare for bid submission.
+    <td align="left">
+      <p align="center">
+        <img src="assets/project-tenderwise.svg" width="100%" alt="Project 01: TenderWise — Advanced RAG Document Intelligence" />
       </p>
       <p>
-        <b>Tech Stack:</b> Python · FastAPI · PostgreSQL · pgvector ·
-        RAG · LangGraph · Embeddings · Hybrid Retrieval
+        An AI-powered government tender intelligence and bid-readiness platform designed to help teams analyze tender documents, understand bidder requirements, organize company evidence, and prepare for bid submission.
       </p>
       <p>
+        <img src="assets/tech-stack-label.svg" width="104" height="18" alt="TECH STACK" /> &nbsp; Python · FastAPI · PostgreSQL · pgvector · RAG · LangGraph · Embeddings · Hybrid Retrieval
+      </p>
+      <p align="center">
         <a href="https://github.com/Prithvikalyan/TenderWise">
-          <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-111111?style=flat-square&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="TenderWise Source Code" />
+          <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=171717" alt="View TenderWise source code" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>2. CodePilot – AI Project Analyst Agent</h3>
-      <p>
-        An AI-powered project analyst that helps developers
-        understand, explore, and review their codebases.
-        It provides project explanations, architecture analysis,
-        code reviews, structure analysis, and project reports
-        using an AI-powered workflow.
+    <td align="left">
+      <p align="center">
+        <img src="assets/project-codepilot.svg" width="100%" alt="Project 02: CodePilot — AI Project Analyst Agent" />
       </p>
       <p>
-        <b>Tech Stack:</b> Python · FastAPI · LangGraph · NVIDIA AI ·
-        REST APIs · Pydantic
+        An AI-powered project analyst that helps developers understand, explore, and review their codebases. It provides project explanations, architecture analysis, code reviews, structure analysis, and project reports using an AI-powered workflow.
       </p>
       <p>
+        <img src="assets/tech-stack-label.svg" width="104" height="18" alt="TECH STACK" /> &nbsp; Python · FastAPI · LangGraph · NVIDIA AI · REST APIs · Pydantic
+      </p>
+      <p align="center">
         <a href="https://github.com/Prithvikalyan/CodePilot">
-          <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-111111?style=flat-square&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="CodePilot Source Code" />
+          <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=171717" alt="View CodePilot source code" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>3. SkillPilot – AI-Powered Learning Assistant</h3>
-      <p>
-        An AI-powered learning assistant designed to help
-        students and beginners understand technical concepts,
-        create personalized learning roadmaps, and maintain
-        learning progress using LLMs, RAG, and semantic search.
+    <td align="left">
+      <p align="center">
+        <img src="assets/project-skillpilot.svg" width="100%" alt="Project 03: SkillPilot — AI-Powered Learning Assistant" />
       </p>
       <p>
-        <b>Tech Stack:</b> Python · FastAPI · PostgreSQL · pgvector ·
-        LLMs · RAG · Embeddings · Semantic Search
+        An AI-powered learning assistant designed to help students and beginners understand technical concepts, create personalized learning roadmaps, and maintain learning progress using LLMs, RAG, and semantic search.
       </p>
       <p>
+        <img src="assets/tech-stack-label.svg" width="104" height="18" alt="TECH STACK" /> &nbsp; Python · FastAPI · PostgreSQL · pgvector · LLMs · RAG · Embeddings · Semantic Search
+      </p>
+      <p align="center">
         <a href="https://github.com/Prithvikalyan/SkillPilot">
-          <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-111111?style=flat-square&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="SkillPilot Source Code" />
+          <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=171717" alt="View SkillPilot source code" />
         </a>
       </p>
     </td>
@@ -179,6 +180,10 @@
 <!-- TECH STACK -->
 
 <h2 align="center">3. Tech Stack &amp; Skills</h2>
+
+<p align="center">
+  <img src="assets/section-divider.svg" width="220" height="16" alt="" />
+</p>
 
 <p align="center"><b>Core Programming Languages</b></p>
 
@@ -249,6 +254,10 @@
 <h2 align="center">4. GitHub Analytics &amp; Activity</h2>
 
 <p align="center">
+  <img src="assets/section-divider.svg" width="220" height="16" alt="" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Prithvikalyan&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444"
   width="440" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Prithvikalyan&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444"
@@ -269,6 +278,10 @@
 <h2 align="center">5. Contribution Journey</h2>
 
 <p align="center">
+  <img src="assets/section-divider.svg" width="220" height="16" alt="" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Prithvikalyan/Prithvikalyan/output/github-contribution-grid-snake-dark.svg"
   width="100%" alt="GitHub Contribution Snake Animation" />
 </p>
@@ -276,6 +289,10 @@
 <!-- CONTACT -->
 
 <h2 align="center">6. Let's Connect &amp; Collaborate</h2>
+
+<p align="center">
+  <img src="assets/section-divider.svg" width="220" height="16" alt="" />
+</p>
 
 <p align="center">
   Whether you want to discuss backend development,

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">SkillPilot — AI-Powered Learning Assistant</title>
+  <desc id="desc">Dark project heading banner with crimson accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151014"/>
+      <stop offset="0.55" stop-color="#0B0B0D"/>
+      <stop offset="1" stop-color="#111114"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#991B1B"/>
+      <stop offset="0.48" stop-color="#EF4444"/>
+      <stop offset="1" stop-color="#7F1D1D"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#DC2626" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="110" rx="12" fill="url(#bg)" stroke="#492126" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="4" rx="2" fill="url(#top)"/>
+  <rect x="1" y="5" width="520" height="106" fill="url(#glow)"/>
+  <rect x="24" y="22" width="5" height="68" rx="2.5" fill="#EF4444"/>
+  <text x="52" y="43" fill="#F87171" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.2">PROJECT 03  /  LEARNING AI</text>
+  <text x="52" y="78" fill="#F9FAFB" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">SkillPilot — AI-Powered Learning Assistant</text>
+  <text x="1150" y="43" text-anchor="end" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.2">PERSONALIZED LEARNING</text>
+  <path d="M52 94 H1148" stroke="#472126" stroke-width="1"/>
+</svg>
